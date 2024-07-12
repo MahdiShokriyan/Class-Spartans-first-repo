@@ -1,3 +1,5 @@
+package start_package;
+
 public class black {
     public static void main(String[] args) {
         int i = 3;
